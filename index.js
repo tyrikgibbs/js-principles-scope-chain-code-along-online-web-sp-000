@@ -20,4 +20,5 @@ function overWriteBestCustomer(){
 
 function changeLeastFavoriteCustomer({
   leastFavoriteCustomer = "red"
+  return leastFavoriteCustomer
 })
