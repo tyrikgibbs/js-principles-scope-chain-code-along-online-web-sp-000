@@ -22,3 +22,5 @@ function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = "red"
   return leastFavoriteCustomer
 }
+
+let favoriteCustomer = "blue"
